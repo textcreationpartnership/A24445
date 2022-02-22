@@ -1,0 +1,4223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prognostication for the year 1645 wherein is contained a description of the foure quarters of the year : and also are described the constellations and stars, not onely pleasant but profitable : calculated for the meridian of Brumicham / by Nath. Nye ...</title>
+            <author>Nye, Nathaniel, b. 1624.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24445</idno>
+            <idno type="STC">Wing A2001</idno>
+            <idno type="STC">ESTC R1333</idno>
+            <idno type="EEBO-CITATION">12881970</idno>
+            <idno type="OCLC">ocm 12881970</idno>
+            <idno type="VID">94961</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94961)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1517:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prognostication for the year 1645 wherein is contained a description of the foure quarters of the year : and also are described the constellations and stars, not onely pleasant but profitable : calculated for the meridian of Brumicham / by Nath. Nye ...</title>
+                  <author>Nye, Nathaniel, b. 1624.</author>
+               </titleStmt>
+               <extent>[16] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Neile for the Company of Stationers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: Nye 1645.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English.</term>
+               <term>Ephemerides.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94961:1"/>
+            <p>A Prognoſtication for the Yeer 1645. Wherein is contained a Deſcrip<g ref="char:EOLhyphen"/>tion of the foure Quarters of the yeer. And alſo are deſcribed the Conſtella<g ref="char:EOLhyphen"/>tions and Stars; not onely plea<g ref="char:EOLhyphen"/>ſant, but profitable. Calculated for the Meridian of <hi>Brumicham.</hi>
+            </p>
+            <p>By NATH. NYE <hi>Mathematician.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>F. Neile</hi> for the Company of Stationers. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="astronomical_information">
+            <pb facs="tcp:94961:2"/>
+            <pb facs="tcp:94961:2"/>
+            <head>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eafter followeth the Nocturnall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſing and ſetting of the 7 Planets the firſt day of every Moneth through<g ref="char:EOLhyphen"/>out this Yeer, 1645.</head>
+            <head type="sub">
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o to know ſome principall fixed Stars by the Moons courſe.</head>
+            <list>
+               <head>January.</head>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rne</hi> ſets <hi>3</hi> quarters paſt <hi>11</hi> at night.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>piter</hi> ſets half an houre paſt <hi>3</hi> morning neere the <hi>7</hi> ſtars. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rs</hi> ſets a quarter paſt <hi>6</hi> mor. he is neer the Ƴ horn of ♉<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he bright Morning ſtar riſeth <hi>50</hi> min. paſt <hi>4</hi> morn.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry</hi> ſets <hi>20</hi> min. paſt <hi>4</hi> in the Evening.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e firſt day in the morning you may obſerve the ☾ with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and <hi>Pollux,</hi> the <hi>4</hi> day with <hi>Regulus,</hi> the <hi>8</hi> day with <hi>Spica <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is,</hi> the <hi>12</hi> day in the morn. with <hi>Antares,</hi> or the heart of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <hi>23</hi> day with <hi>Lucida</hi> in <hi>Capute Arietis,</hi> the <hi>25</hi> day with <hi>Plei</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd the laſt day at night neer the Lyons heart. Eclipſed.</item>
+            </list>
+            <list>
+               <head>February.</head>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e</hi> ſets a little paſt <hi>10</hi> at night.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r</hi> ſets <hi>20</hi> min. paſt one morning neer <hi>7</hi> ſtars.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſets a little paſt <hi>4</hi> in the morning.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the morning ſtar riſeth a quarter before <hi>6</hi> mor.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ry</hi> cannot be ſeen.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>2</hi> day you may obſerve the Moon neer <hi>Cauda</hi> ☊ the <hi>5</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith <hi>Spica Virginis,</hi> the <hi>9</hi> day with <hi>Antares,</hi> the <hi>23</hi> day with Vulturs heart, the <hi>21</hi> day with <hi>Pleiades,</hi> the <hi>22</hi> day with the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eye, and the laſt day with the Lyons heart.</item>
+            </list>
+            <list>
+               <head>March.</head>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ne</hi> ſets <hi>20</hi> min. paſt <hi>8</hi> morning.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>er</hi> ſets a little before <hi>12</hi> at night.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſets at 3 in the morning, and is in a right line between <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tar in the ♈ Horn of ♉, and the Little Dogſtar.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther <hi>Venus</hi> nor <hi>Mercury</hi> can be ſeen.</item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>4</hi> day you may obſerve the Moon with <hi>Spica</hi> ♍, the <hi>6</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with the South Ballance, the <hi>8</hi> day with <hi>Antares,</hi> the <hi>12</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with the Vulturs heart, the <hi>17</hi> day with the Whales tayl,
+<pb facs="tcp:94961:3"/>the <hi>21</hi> day with <hi>Hyades</hi> and <hi>Aldebaran,</hi> the <hi>23</hi> day neer <hi>C<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> and <hi>Pollux,</hi> and the laſt day with <hi>Spica Virginis.</hi>
+               </item>
+            </list>
+            <list>
+               <head>April.</head>
+               <item>
+                  <hi>Saturne</hi> cannot be ſeen.</item>
+               <item>
+                  <hi>Jupiter</hi> ſets half an houre paſt <hi>10</hi> at night.</item>
+               <item>
+                  <hi>Mars</hi> ſets at a little paſt <hi>2</hi> in the morn. neer <hi>Propus.</hi>
+               </item>
+               <item>
+                  <hi>Venus</hi> cannot be ſeen.</item>
+               <item>
+                  <hi>Mercury</hi> is ſtill hid under the Sun beams.</item>
+               <item>The <hi>2</hi> day the ☾ is with the South Ballance of ♎, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> day with <hi>Antares,</hi> the <hi>8</hi> day with the Vulturs heart, the <hi>17</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th <hi>pleiades,</hi> the <hi>18</hi> day with <hi>Aldebara,</hi> the <hi>20</hi> day with <hi>Ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> and <hi>Pollux,</hi> the <hi>23</hi> day the Moon covers the Lyons heart, the <hi>28</hi> day about <hi>2</hi> of the clock in the morn. the Moon is right line between <hi>Arcturus</hi> and <hi>Spica Virginis.</hi>
+               </item>
+            </list>
+            <list>
+               <head>May.</head>
+               <item>
+                  <hi>Saturne</hi> cannot yet be ſeen.</item>
+               <item>
+                  <hi>Jupiter</hi> likewiſe cannot be ſeen.</item>
+               <item>
+                  <hi>Mars</hi> ſets juſt at one in the morning, is neer <hi>Precepe.</hi>
+               </item>
+               <item>
+                  <hi>Venus</hi> cannot be ſeen.</item>
+               <item>
+                  <hi>Mercury</hi> ſets about <hi>9</hi> a clock at night.</item>
+               <item>The firſt day about <hi>11</hi> at night the Moon with <hi>Antares 22</hi> day with <hi>Spica</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, the <hi>26</hi> day the ☾ with the North South Ballance of <hi>Libra,</hi> and the <hi>29</hi> day in the morning the Scorpions heart.</item>
+            </list>
+            <list>
+               <head>June.</head>
+               <item>
+                  <hi>Saturne</hi> riſeth a little before <hi>2</hi> in the morning, enter, ♉.</item>
+               <item>
+                  <hi>Jupiter</hi> cannot be ſeen.</item>
+               <item>
+                  <hi>Mars</hi> ſets juſt at <hi>40</hi> min. paſt <hi>11</hi> at night.</item>
+               <item>Neither <hi>Venus</hi> nor <hi>Mercury</hi> can be ſeen.</item>
+               <item>The <hi>9</hi> day the Moon with <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cida</hi> in <hi>Caputo Arietis,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> day with <hi>Regulus,</hi> the <hi>11</hi> day with <hi>Spica Virginis,</hi> and <hi>Ar<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> and the <hi>25</hi> day with <hi>Antares.</hi>
+               </item>
+            </list>
+            <list>
+               <head>July.</head>
+               <item>
+                  <hi>Saturne</hi> riſeth a little before midnight.</item>
+               <item>
+                  <hi>Jupiter</hi> riſeth a little before <hi>2</hi> in the morning.</item>
+               <item>
+                  <hi>Mars</hi> ſets juſt at <hi>10</hi> at night.</item>
+               <item>
+                  <hi>Venus</hi> cannot be ſeen.</item>
+               <item>
+                  <hi>Mercury</hi> riſeth a little after <hi>2</hi> in the morning.</item>
+               <item>The <hi>6</hi> day the Moon with <hi>Lucida</hi> in <hi>Caputo</hi> ♈, the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with <hi>Spica</hi> ♍, the <hi>22</hi> day with <hi>Antares,</hi> and the <hi>28</hi> day the two <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tars in the tayl of <hi>Capricorn.</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:94961:3"/>
+               <head>Auguſt.</head>
+               <item>
+                  <hi>Saturne</hi> riſeth a little before <hi>10</hi> at night.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>upiter</hi> riſeth at <hi>12</hi> min. paſt <hi>12</hi> midnight, and upon the <hi>6</hi> day <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou may obſerve <hi>Jupiter</hi> between thoſe <hi>2</hi> litle ſtars in the leſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ot of <hi>Caſtor</hi> neer the Solſtitiall point.</item>
+               <item>Neither <hi>Mars, Venus,</hi> nor <hi>Mercury</hi> can be ſeen.</item>
+               <item>The <hi>2</hi> day the Moon with the bright ſtar in the head of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am, the <hi>15</hi> day with <hi>Spica Virginis,</hi> the <hi>25</hi> day with the <hi>2</hi> ſtars <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the tayl of <hi>Capricorn,</hi> and the laſt day the Moon neer the <hi>7</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ars.</item>
+            </list>
+            <list>
+               <head>September.</head>
+               <item>
+                  <hi>Saturne</hi> riſeth a little before Sun ſetting, and comes to the Meridian or South point <hi>3</hi> quarters paſt <hi>2</hi> in the morning, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ſets in the day time.</item>
+               <item>
+                  <hi>Jupiter</hi> riſeth at <hi>3</hi> quarters paſt <hi>10</hi> at night.</item>
+               <item>Neither <hi>Mars, Venus,</hi> nor <hi>Mercury</hi> can be ſeen.</item>
+               <item>The <hi>4</hi> day the ☾ with <hi>Caſtor</hi> and <hi>Pollux,</hi> the <hi>15</hi> day with <hi>An<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es,</hi> the <hi>21</hi> day with the <hi>2</hi> ſtars in the tayl of <hi>Capricorn,</hi> the <hi>26</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y with <hi>Lucida</hi> in <hi>Caputo Arietis,</hi> the <hi>28</hi> day with <hi>Pleiades,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e laſt day between the Buls horns in the morning.</item>
+            </list>
+            <list>
+               <head>October.</head>
+               <item>
+                  <hi>Saturne</hi> riſeth at <hi>6</hi> at night.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>piter</hi> riſeth at a quarter paſt <hi>10</hi> at night.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ars</hi> lyeth h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d under the Sun beams.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nus</hi> cannot yet be ſeen.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ercury</hi> lyeth hid ſtil under the Sun beams.</item>
+               <item>The <hi>3</hi> day in the morning about <hi>3</hi> a clock you may obſerve <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Moon between North and South <hi>Aſtellus,</hi> upon the <hi>19</hi> day <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th the <hi>2</hi> ſtars in the tayl of <hi>Capricorn,</hi> the <hi>23</hi> day with the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight ſtar in the head of the Ram, the laſt day with <hi>Regulu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </item>
+            </list>
+            <list>
+               <head>November.</head>
+               <item>
+                  <hi>Saturne</hi> ſets at <hi>3</hi> quarters paſt <hi>5</hi> morning.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>piter</hi> riſeth a quarter paſt <hi>7</hi> at night.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ars</hi> cannot be ſeen.</item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nus</hi> begins to be an evening ſtar, and ſets <hi>3</hi> quar. paſt <hi>5.</hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ercury</hi> riſeth <hi>40</hi> min. paſt <hi>5.</hi> in the morning.</item>
+               <item>The <hi>5</hi> day in the morning the Moon with <hi>Spica</hi> ♏, the <hi>15</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y neer the <hi>2</hi> ſtars in the tayl of <hi>Capricorn,</hi> the <hi>20</hi> day with <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cida</hi> in <hi>Caputo Arietis,</hi> the <hi>22</hi> day with <hi>Pleiades,</hi> the <hi>23</hi> day with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Buls eye in the morn. the <hi>26</hi> day with <hi>Precepe,</hi> the <hi>28</hi> day <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith <hi>Regulus,</hi> and the <hi>29</hi> day with the Lyons tayl.</item>
+            </list>
+            <list>
+               <pb facs="tcp:94961:4"/>
+               <head>December.</head>
+               <item>
+                  <hi>Saturne</hi> ſets <hi>17</hi> min. Paſt <hi>3</hi> in the morning.</item>
+               <item>
+                  <hi>Jupiter</hi> riſeth; quarters paſt <hi>4</hi> at night.</item>
+               <item>
+                  <hi>Mars</hi> cannot yet be ſeen.</item>
+               <item>
+                  <hi>Venus</hi> ſets half an houre paſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at night.</item>
+               <item>
+                  <hi>Mercury</hi> cannot be ſeen.</item>
+               <item>The <hi>2</hi> day the Moon with <hi>Arcturus,</hi> and ſpica ♍, the <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9</hi> with the <hi>7</hi> ſtars, the <hi>20</hi> day with <hi>Aldeburan,</hi> the <hi>22</hi> day <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Caſtor</hi> and <hi>Polluk,</hi> the <hi>25</hi> day with the Lyons Heart, and the day with the South Ballance of <hi>Libra.</hi> Note the almoſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> time as the <g ref="char:Moon">☽</g> meets with the Lyons Heart this yeer it co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it.</item>
+               <item>If a man have any deſtre to know either the Stars or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nets, he may by theſe directions eaſtly And them: for by ſerving the riſing and ſetting of the Planets he ſhall not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but know them and by obſerving what bright ſtar is next Moon on thoſe nights abo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e mentioned, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> caunot miſſe <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing out all thoſe bright ſtars in or neer the Zo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h.</item>
+            </list>
+         </div>
+         <div type="calculation">
+            <head>An exact way to find the true houre of the day <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a walking ſtaffe divided into 10 equall parts.</head>
+            <p>THe uſe of this Table following, is to find the true hour the day by the ſhadow of a wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king ſtaffe, being firſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ded into <hi>10</hi> parts, and every one of thoſe parts dividen into more parts, and ſo is your ſtaffe divided into <hi>100</hi> pa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Wherewith if you deſtre to know the true houre of the any, it upright, and mark the length of the ſhadow with the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of your ſtaffe: find the number of thoſe par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in the T<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> following right againſt the day of the Moneth, and on the you have the true houre of the day.</p>
+            <div type="example">
+               <head>Example.</head>
+               <p>I deſire the houre of the day upon the <hi>20</hi> of Day, there<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſet up my ſtaffe, and find the length of the ſhadow to con<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>14</hi> parts, wherefore I look in my Table for May, and the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay, and in that line towards the right hand I find <hi>14,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> over it in the head of the Table I find <hi>4</hi> and <hi>8,</hi> which is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> houre of the day, either <hi>4</hi> aftern. or <hi>8</hi> morn. Note that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> leſſér diviſions are alſo ſet down in the Table, and are to uſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> if need require, eſpecially about midday.</p>
+            </div>
+            <div type="table">
+               <pb facs="tcp:94961:4"/>
+               <head>Table to find the true houre of the day by a ſtaffe divided into 10 equall parts.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="3">
+                           <hi>
+                              <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>fore noon.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label" cols="3">
+                           <hi>
+                              <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>fter noon.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell> </cell>
+                        <cell rows="2">
+                           <hi>ne</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>23</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>4</cell>
+                        <cell rows="2">
+                           <hi>July</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>13</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>3</cell>
+                        <cell rows="2">
+                           <hi>Auguſt</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>13</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>24</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>3</cell>
+                        <cell rows="3">
+                           <hi>September</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>13</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>8</cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>1</cell>
+                        <cell rows="3">
+                           <hi>October</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>23</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>1</cell>
+                        <cell rows="2">
+                           <hi>November</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0</cell>
+                        <cell>23</cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell>3</cell>
+                        <cell rows="2">
+                           <hi>De<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">12</cell>
+                        <cell cols="2">11</cell>
+                        <cell cols="2">10</cell>
+                        <cell>9</cell>
+                        <cell>8</cell>
+                        <cell>7</cell>
+                        <cell>6</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell cols="2">0</cell>
+                        <cell cols="2">1</cell>
+                        <cell cols="2">2</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>6</cell>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell>5</cell>
+                        <cell>10</cell>
+                        <cell>13</cell>
+                        <cell>19</cell>
+                        <cell>30</cell>
+                        <cell>57</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>7</cell>
+                        <cell>6</cell>
+                        <cell>2</cell>
+                        <cell>7</cell>
+                        <cell>6</cell>
+                        <cell>10</cell>
+                        <cell>13</cell>
+                        <cell>19</cell>
+                        <cell>31</cell>
+                        <cell>59</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>6</cell>
+                        <cell>6</cell>
+                        <cell>5</cell>
+                        <cell>8</cell>
+                        <cell>0</cell>
+                        <cell>11</cell>
+                        <cell>14</cell>
+                        <cell>20</cell>
+                        <cell>32</cell>
+                        <cell>64</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>4</cell>
+                        <cell>7</cell>
+                        <cell> </cell>
+                        <cell>8</cell>
+                        <cell>4</cell>
+                        <cell>11</cell>
+                        <cell>15</cell>
+                        <cell>22</cell>
+                        <cell>35</cell>
+                        <cell>80</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell> </cell>
+                        <cell>7</cell>
+                        <cell>5</cell>
+                        <cell>9</cell>
+                        <cell> </cell>
+                        <cell>12</cell>
+                        <cell>16</cell>
+                        <cell>24</cell>
+                        <cell>40</cell>
+                        <cell>109</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>8</cell>
+                        <cell>8</cell>
+                        <cell>3</cell>
+                        <cell>9</cell>
+                        <cell>8</cell>
+                        <cell>13</cell>
+                        <cell>17</cell>
+                        <cell>26</cell>
+                        <cell>48</cell>
+                        <cell>194</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>7</cell>
+                        <cell>9</cell>
+                        <cell> </cell>
+                        <cell>11</cell>
+                        <cell> </cell>
+                        <cell>14</cell>
+                        <cell>19</cell>
+                        <cell>30</cell>
+                        <cell>62</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell> </cell>
+                        <cell>10</cell>
+                        <cell>6</cell>
+                        <cell>12</cell>
+                        <cell>4</cell>
+                        <cell>16</cell>
+                        <cell>23</cell>
+                        <cell>37</cell>
+                        <cell>96</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell> </cell>
+                        <cell>12</cell>
+                        <cell> </cell>
+                        <cell>14</cell>
+                        <cell> </cell>
+                        <cell>18</cell>
+                        <cell>27</cell>
+                        <cell>47</cell>
+                        <cell>189</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell> </cell>
+                        <cell>14</cell>
+                        <cell> </cell>
+                        <cell>16</cell>
+                        <cell> </cell>
+                        <cell>21</cell>
+                        <cell>31</cell>
+                        <cell>63</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell> </cell>
+                        <cell>16</cell>
+                        <cell> </cell>
+                        <cell>19</cell>
+                        <cell> </cell>
+                        <cell>25</cell>
+                        <cell>39</cell>
+                        <cell>99</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell> </cell>
+                        <cell>18</cell>
+                        <cell> </cell>
+                        <cell>21</cell>
+                        <cell> </cell>
+                        <cell>29</cell>
+                        <cell>48</cell>
+                        <cell>173</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>20</cell>
+                        <cell> </cell>
+                        <cell>201</cell>
+                        <cell> </cell>
+                        <cell>25</cell>
+                        <cell> </cell>
+                        <cell>36</cell>
+                        <cell>66</cell>
+                        <cell>202</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>24</cell>
+                        <cell> </cell>
+                        <cell>25</cell>
+                        <cell> </cell>
+                        <cell>31</cell>
+                        <cell> </cell>
+                        <cell>47</cell>
+                        <cell>107</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>28</cell>
+                        <cell> </cell>
+                        <cell>30</cell>
+                        <cell> </cell>
+                        <cell>37</cell>
+                        <cell> </cell>
+                        <cell>59</cell>
+                        <cell>296</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>32</cell>
+                        <cell> </cell>
+                        <cell>35</cell>
+                        <cell> </cell>
+                        <cell>44</cell>
+                        <cell> </cell>
+                        <cell>77</cell>
+                        <cell>732</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>37</cell>
+                        <cell> </cell>
+                        <cell>40</cell>
+                        <cell> </cell>
+                        <cell>52</cell>
+                        <cell> </cell>
+                        <cell>100</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>40</cell>
+                        <cell> </cell>
+                        <cell>43</cell>
+                        <cell> </cell>
+                        <cell>58</cell>
+                        <cell> </cell>
+                        <cell>122</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>41</cell>
+                        <cell> </cell>
+                        <cell>44</cell>
+                        <cell> </cell>
+                        <cell>60</cell>
+                        <cell> </cell>
+                        <cell>131</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+         </div>
+         <div type="description_of_four_quarters">
+            <pb facs="tcp:94961:5"/>
+            <head>A ſhort deſcription of the foure Quart<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of this Yeer, 1645.</head>
+            <div type="quarter">
+               <head>Of the Spring.</head>
+               <p>THe beginning of the Spring hapneth this yeer upon the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> March, at 3 a clock in the morning, at which moment th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> enters ♈ making the day and nigh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of equall length thr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> all the world, except under both the Poles, this quarter laſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ☉ runs through theſe three Signes ♈ ♉ and ♊ the ſpace <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dayes and 4 houres.</p>
+            </div>
+            <div type="quarter">
+               <head>Of the Sommer.</head>
+               <p>The Sommer begins at the Suns entrance into the firſt min. Northern and Tropicall ſigne ♋ on the 11 day of Iune, at 71<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the morning, the dayes being at the longeſt with us at Bir<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> about 16 houres and<g ref="char:punc">▪</g> quarters; this ſeaſon continueth while <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> paſſeth through theſe three Signes, ♋, ☊, and ♍, the ſpace <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dayes 15 hou, and 7 min.</p>
+            </div>
+            <div type="quarter">
+               <head>Of Harveſt.</head>
+               <p>Harveſt begins when the Sun enters into the firſt min. of ♎, hapneth this yeer upon the 13 of September, half an houre be<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> midnight: the dayes and nights being equall, and as temperat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Spring. This Quarter hath his period at the Suns departu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the laſt min. of ♐, a Signe cold, and moyſt, accompanied wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and miſts, ingendring much ſickneſſe, as the Plague, Feavers, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> like. This Quarter continues the ſpace of 89 dayes, and 111 the ☉ paſſing through ♎, ♏, and ♐.</p>
+            </div>
+            <div type="quarter">
+               <head>Of Winter.</head>
+               <p>The Winter beginneth at the ☉ entrance into ♑, which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this yeer upon the 11 of December at a quarter paſt 9 before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which moment the Sun enters into the firſt min. of ♑, Thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is the moſt coldeſt of all the reſt, the dayes being at the ſhorte<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as at Birmicham; 7 houres and a quarter in length. A warme an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wind is an enemie to husbandmen, but if reaſonable ſtore of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it preſerveth the fruit, and begets plenty. This Quarter c<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> while the Sun paſſeth through theſe 3 laſt Signes, ♑, ♒ <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſpace of 89 dayes, 0 houres, and 14 min.</p>
+            </div>
+         </div>
+         <div type="astronomical_notes">
+            <head>Aſtronomicall Notes.</head>
+            <p>THe true Proceſſion of the Equinoctiall, or the diſtance of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Star in the Rams horn from the Equinoctiall point, acc<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> the Rodolphine Tables is 28 deg. 13. min. and according <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bergs tables is 28 deg. 19 min. But according to Argoll 28 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> min. and 5 ſec. The obliquitie of the Zodiack according to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:94961:5"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deg. 31 min. and 30 ſec. and according to <hi>Lansberg</hi> 23 deg. and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in. But according to the Prutenicall Tables it is 23 deg. 28 min <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſec.</p>
+         </div>
+         <div type="apogees_of_planets">
+            <head>The Auges of the Planets.</head>
+            <p>
+               <table>
+                  <head>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ording to <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gols</hi> Table.</head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">deg.</cell>
+                     <cell role="label">min.</cell>
+                     <cell role="label">Sec.</cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>27</cell>
+                     <cell>27</cell>
+                     <cell>45</cell>
+                     <cell>♐</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>8</cell>
+                     <cell>22</cell>
+                     <cell>10</cell>
+                     <cell>♎</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>29</cell>
+                     <cell>49</cell>
+                     <cell>44</cell>
+                     <cell>♌</cell>
+                  </row>
+                  <row>
+                     <cell>☉</cell>
+                     <cell>6</cell>
+                     <cell>29</cell>
+                     <cell>22</cell>
+                     <cell>♋</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>0</cell>
+                     <cell>37</cell>
+                     <cell>44</cell>
+                     <cell>♋</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>55</cell>
+                     <cell>♐</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>According to <hi>Lansberg.</hi>
+                  </head>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">deg.</cell>
+                     <cell role="label">min.</cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>♄</cell>
+                     <cell>26</cell>
+                     <cell>51</cell>
+                     <cell>♐</cell>
+                  </row>
+                  <row>
+                     <cell>♃</cell>
+                     <cell>3</cell>
+                     <cell>53</cell>
+                     <cell>♎</cell>
+                  </row>
+                  <row>
+                     <cell>♂</cell>
+                     <cell>26</cell>
+                     <cell>29</cell>
+                     <cell>♌</cell>
+                  </row>
+                  <row>
+                     <cell>☉</cell>
+                     <cell>7</cell>
+                     <cell>44</cell>
+                     <cell>♋</cell>
+                  </row>
+                  <row>
+                     <cell>♀</cell>
+                     <cell>1</cell>
+                     <cell>52</cell>
+                     <cell>♋</cell>
+                  </row>
+                  <row>
+                     <cell>☿</cell>
+                     <cell>29</cell>
+                     <cell>48</cell>
+                     <cell>♏</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he true magnitude of the Tropicall yeer is 365 daies, 5 ho. 49 m</p>
+         </div>
+         <div type="notes_on_eclipses">
+            <head>Of Eclipſes.</head>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is yeer the Inhabitants of the earth ſhall be deprived of the Suns <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> glo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious light twice, and as oft of the Moons. The firſt of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and the laſt of the Sun appear above our Horizon, the other <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be ſeen in thoſe parts of the earth which are far remote. The <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is of the Moon upon the laſt of January, the moon being in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deg. and 35 min. of Leo, the Sun in the oppoſite ſigne and degree. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Eclipſe begins at 5 a clock, and 23 min. the middle at 70 clock <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 4 min and the end at 3 quarters paſt 8 at night. The parts eclip<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> are 10, and 50 min. and that little light which ſhe retaineth ſhall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar on the neither part of her body.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſecond Eclipſe which we ſhall ſee is of the Sun upon the 11 day <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uguſt, the beginning will be at 10 in the morning, the middle at <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the end a quarter of an houre paſt noon. The parts eclipſed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5. and 50 min. on the North ſide of his body.</p>
+            <figure>
+               <head>Moons Eclipſe.</head>
+            </figure>
+            <figure>
+               <head>Suns Eclipſe.</head>
+            </figure>
+         </div>
+         <div type="astronomical_tables">
+            <pb facs="tcp:94961:6"/>
+            <head>Hereafter followeth certain and per<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Rules to find and know the names of m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Celeſtiall Conſtellations, and Stars, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> true uſe of them being known, to find the houre of the night without any Inſtru<g ref="char:EOLhyphen"/>ments. A thing moſt pleaſant, and profit<g ref="char:EOLhyphen"/>able to be regarded by all men.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>The Names of the Starres and parts of the Conſtellations, their Riſing, Southing, Set<g ref="char:EOLhyphen"/>ting.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>The right Aſcan<g ref="char:EOLhyphen"/>ſion.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>The point the Com<g ref="char:EOLhyphen"/>paſſe on which th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> riſe and ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>ho.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>m.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lucida Corona ſets</cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>N</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The head of Hercules and Serpentacius.</cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>W N <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The little Dog ſtar riſeth</cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>44</hi>
+                     </cell>
+                     <cell>
+                        <hi>E to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The right knee of Orion riſeth</cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>24</hi>
+                     </cell>
+                     <cell>
+                        <hi>E S E</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The ⚹ in Andromedas girdle M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rach. S South</cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>48</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Fomahant ſets</cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>52</hi>
+                     </cell>
+                     <cell>
+                        <hi>S W to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The middle ⚹ in the Great Bears tayl</cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Northermoſt ⚹ in the Lyons Nec. R</cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>28</hi>
+                     </cell>
+                     <cell>
+                        <hi>N E to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Meduſas head called Ras Algol. South</cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ben. the laſt ſtar in the great Bears tail. ſ South</cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>32</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Lucida in Caputo Arietis</cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>44</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Mindiſ. the bright ſtar in the bond of ♓ ſ.</cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>44</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Alamack the ſtar in Androm. foot South Riſeth</cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>44</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>2.</hi> ſtar in the Lyons Neck</cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                     <cell>
+                        <hi>54</hi>
+                     </cell>
+                     <cell>
+                        <hi>N E to E</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Great Dog ſtar Riſeth</cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>S E to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>2</hi> ſtar in the Lyons Neck Riſeth</cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>N E to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The ſlying Eagle ſets</cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>W to N</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Regulus the bright ⚹ in ♌ heart Riſeth</cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>36</hi>
+                     </cell>
+                     <cell>
+                        <hi>E N <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The ſhining ſtar in the ſide of Perſe. S.</cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>56</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>7</hi> ſtars Pleiapes. South</cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                     <cell>
+                        <hi>24</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Del phine ſets</cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                     <cell>
+                        <hi>32</hi>
+                     </cell>
+                     <cell>
+                        <hi>W N W</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ydras heart Riſeth</cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                     <cell>
+                        <hi>48</hi>
+                     </cell>
+                     <cell>
+                        <hi>E to South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The ⚹ in the Lyons tayl Riſeth</cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>E N E</hi>
+                     </cell>
+                  </row>
+                  <pb facs="tcp:94961:6"/>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ar in Noaths Dove</cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>S to the E</hi>
+                     </cell>
+                     <cell>
+                        <hi> </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Buls eye Aldebarau South</cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Brighteſt ſtar in the whales tail ſets</cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>28</hi>
+                     </cell>
+                     <cell>
+                        <hi>S W to W</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>right ſtar called the Goat South</cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>48</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>⚹ up the left foot of Orion South</cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>56</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hou. of Orion &amp; Nor. hor. of ♉ ſ</cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>iddlem. ⚹ in Ori. G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rdle, <hi>Job 28.30</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>hum</hi> Orions Right Should. S.</cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>32</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Dove comes to the South</cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>32</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> matrix Riſeth</cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>36</hi>
+                     </cell>
+                     <cell>
+                        <hi>ENE</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Right Shoulder of Auriga</cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>32</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>right ⚹ in Pegaſus called Marc. ſet</cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                     <cell>
+                        <hi>56</hi>
+                     </cell>
+                     <cell>
+                        <hi>W N W</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rus a bright red ſtar <hi>Job 38.31</hi>
+                     </cell>
+                     <cell>
+                        <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>N E to the E</hi>
+                     </cell>
+                     <cell>
+                        <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> right foot of Pollux South</cell>
+                     <cell>
+                        <hi>6</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſt ⚹ in the type of the wing of Pe. ſ.</cell>
+                     <cell>
+                        <hi>6</hi>
+                     </cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>W N W</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reat Dog ſtar comes to the South</cell>
+                     <cell>
+                        <hi>6</hi>
+                     </cell>
+                     <cell>
+                        <hi>30</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>right ſtar in the Crown riſeth</cell>
+                     <cell>
+                        <hi>6</hi>
+                     </cell>
+                     <cell>
+                        <hi>32</hi>
+                     </cell>
+                     <cell>
+                        <hi>N E</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> one of the twins in <hi>II</hi> South</cell>
+                     <cell>
+                        <hi>7</hi>
+                     </cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ttle Dogſtar South</cell>
+                     <cell>
+                        <hi>7</hi>
+                     </cell>
+                     <cell>
+                        <hi>18</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r the other of the twins in <hi>II</hi> So.</cell>
+                     <cell>
+                        <hi>7</hi>
+                     </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tars in the wing of the Raben riſ.</cell>
+                     <cell>
+                        <hi>7</hi>
+                     </cell>
+                     <cell>
+                        <hi>28</hi>
+                     </cell>
+                     <cell>
+                        <hi>E S E</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>⚹ in Pegaſits called Sheat ſets</cell>
+                     <cell>
+                        <hi>7</hi>
+                     </cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>N W</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ars in the Puppe of the Ship So</cell>
+                     <cell>
+                        <hi>7</hi>
+                     </cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us ſpike</cell>
+                     <cell>
+                        <hi>7</hi>
+                     </cell>
+                     <cell>
+                        <hi>
+                           <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>6</hi>
+                     </cell>
+                     <cell>
+                        <hi>E to South</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſtars in the ſhould. of Hercules R</cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>N E to E</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>pe with Nor. &amp; So. Aſelli South</cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nedas head ſets</cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>N W</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Rave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ts foot Riſeth</cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>S E to E</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Swans tail at the North Meridian</cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>righteſt ⚹ in the nec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of the Ser. ri</cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>48</hi>
+                     </cell>
+                     <cell>
+                        <hi>E to the N</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s heart South</cell>
+                     <cell>
+                        <hi>9</hi>
+                     </cell>
+                     <cell>
+                        <hi>1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us comes to the Meridian</cell>
+                     <cell>
+                        <hi>9</hi>
+                     </cell>
+                     <cell>
+                        <hi>50</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>South Ballance of Libra</cell>
+                     <cell>
+                        <hi>9</hi>
+                     </cell>
+                     <cell>
+                        <hi>50</hi>
+                     </cell>
+                     <cell>
+                        <hi>E South E</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>right ſtar in the head of the ram fets</cell>
+                     <cell>
+                        <hi>9</hi>
+                     </cell>
+                     <cell>
+                        <hi>50</hi>
+                     </cell>
+                     <cell>
+                        <hi>North Weſt</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <pb facs="tcp:94961:7"/>
+                  <row>
+                     <cell>Orions ſhining foot ſets</cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>W to So<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The North Ballance of Libra riſeth</cell>
+                     <cell>
+                        <hi>9</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>E to So<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The head of Serpentarius riſeth</cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>E N <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>2</hi> ſtars in the ſquare of the G. beare</cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>Sou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The head of Centanrus riſeth</cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>S <hi>E to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>
+                           </hi>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Mirach the Girdle of Andromeda ſets</cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>N N <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The left ſhoulder of Centaurus riſeth riſeth</cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>S <hi>S <gap reason="illegible" resp="#PDCC" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>
+                           </hi>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>7</hi> ſtars Pleiades ſet</cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                     <cell>
+                        <hi>32</hi>
+                     </cell>
+                     <cell>
+                        <hi>N W</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The firſt * in the forefront of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re Scor.</cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                     <cell>
+                        <hi>32</hi>
+                     </cell>
+                     <cell>
+                        <hi>S <hi>E to</hi> S</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Lyons tayl comes to the South</cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                     <cell>
+                        <hi>32</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The left ſhoulder of Orion ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s</cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                     <cell>
+                        <hi>32</hi>
+                     </cell>
+                     <cell>
+                        <hi>W to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Great Dog ſtar ſets</cell>
+                     <cell>
+                        <hi>11</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>W <hi>S</hi>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The middle * in Orions Girdle ſets</cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>Weſt</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Right ſhoulder of Orton ſets</cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>W to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The third ſtar in the front of ny Riſeth</cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>South W</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Scorpions heart Antares riſeth</cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>48</hi>
+                     </cell>
+                     <cell>
+                        <hi>S. <hi>W.</hi>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Vindemiatrix of the Virgin South</cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>48</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Flying Eagle riſeth</cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>56</hi>
+                     </cell>
+                     <cell>
+                        <hi>E to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Virgins Spike South</cell>
+                     <cell>
+                        <hi>13</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Delphin<g ref="char:punc">▪</g> riſeth</cell>
+                     <cell>
+                        <hi>13</hi>
+                     </cell>
+                     <cell>
+                        <hi>12</hi>
+                     </cell>
+                     <cell>
+                        <hi>E N <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The little Dog ſtar ſetteth</cell>
+                     <cell>
+                        <hi>13</hi>
+                     </cell>
+                     <cell>
+                        <hi>50</hi>
+                     </cell>
+                     <cell>
+                        <hi>W to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Arcturus comes to the Meridian</cell>
+                     <cell>
+                        <hi>14</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A bright ſtar in the right foot of Pollur ſet.</cell>
+                     <cell>
+                        <hi>13</hi>
+                     </cell>
+                     <cell>
+                        <hi>48</hi>
+                     </cell>
+                     <cell>
+                        <hi>W N <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The ſtar called Sheat Pegaſus riſeth</cell>
+                     <cell>
+                        <hi>14</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>N E</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hydras heart ſets</cell>
+                     <cell>
+                        <hi>14</hi>
+                     </cell>
+                     <cell>
+                        <hi>28</hi>
+                     </cell>
+                     <cell>
+                        <hi>W to So<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The South Ball. comes to the Merid.</cell>
+                     <cell>
+                        <hi>14</hi>
+                     </cell>
+                     <cell>
+                        <hi>28</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Girdle of Andromeda Mirack riſ.</cell>
+                     <cell>
+                        <hi>14</hi>
+                     </cell>
+                     <cell>
+                        <hi>44</hi>
+                     </cell>
+                     <cell>
+                        <hi>N N <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Andromedas head riſeth</cell>
+                     <cell>
+                        <hi>15</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>N P</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The N. Ballance of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> South</cell>
+                     <cell>
+                        <hi>15</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The N. Crowne South</cell>
+                     <cell>
+                        <hi>15</hi>
+                     </cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Bright ſtar in the neck of the Serp. South</cell>
+                     <cell>
+                        <hi>15</hi>
+                     </cell>
+                     <cell>
+                        <hi>28</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Marthah of Pegaſus riſeth</cell>
+                     <cell>
+                        <hi>15</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>E N <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Midle ſtar of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> in the front of in ſouth</cell>
+                     <cell>
+                        <hi>15</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The end of the wing of Pegaſus riſeth.</cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>W <hi>S</hi> 
+                           <gap reason="illegible" resp="#PDCC" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Scorpions hear<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                  </row>
+                  <pb facs="tcp:94961:7"/>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e <hi>2</hi> ſtars in the wing of the Raven ſets</cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>W N W</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e Goat.</cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>the Nor. M</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e Lyons heart ſets</cell>
+                     <cell>
+                        <hi>17</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>W N W</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e bright ⚹ in the head of the Ram ri.</cell>
+                     <cell>
+                        <hi>17</hi>
+                     </cell>
+                     <cell>
+                        <hi>48</hi>
+                     </cell>
+                     <cell>
+                        <hi>N E to the E</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e <hi>2</hi> ſtars in the tayl of Capricorn ri.</cell>
+                     <cell>
+                        <hi>17</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                     <cell>
+                        <hi>SE to the E</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e middle ⚹ in the ♌ neck</cell>
+                     <cell>
+                        <hi>18</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                     <cell>
+                        <hi>W N W</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ica Virgims ſets</cell>
+                     <cell>
+                        <hi>18</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>W to South</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e bright ſtar Lyra is at the ſouth</cell>
+                     <cell>
+                        <hi>18</hi>
+                     </cell>
+                     <cell>
+                        <hi>24</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e South Ballance of Libra ſets</cell>
+                     <cell>
+                        <hi>19</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>W <hi>S</hi> W</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e <hi>7</hi> ſtars riſe</cell>
+                     <cell>
+                        <hi>19</hi>
+                     </cell>
+                     <cell>
+                        <hi>18</hi>
+                     </cell>
+                     <cell>
+                        <hi>N E to the E</hi>
+                     </cell>
+                     <cell>
+                        <hi>5</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e Scorpions Heart <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ets</cell>
+                     <cell>
+                        <hi>19</hi>
+                     </cell>
+                     <cell>
+                        <hi>26</hi>
+                     </cell>
+                     <cell>
+                        <hi>So. Weſt</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e Flying Eagle ſouth</cell>
+                     <cell>
+                        <hi>19</hi>
+                     </cell>
+                     <cell>
+                        <hi>32</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e ſtar called Syndiſmon rifeth</cell>
+                     <cell>
+                        <hi>19</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>Eaſt</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e <hi>2</hi> ſtars in the horns of ♑ ſouth</cell>
+                     <cell>
+                        <hi>19</hi>
+                     </cell>
+                     <cell>
+                        <hi>56</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>demiatrix ſets</cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>W N W</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rth Ballance ſets</cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>W to the <hi>S</hi>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e North horn of the Bull riſeth</cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>16</hi>
+                     </cell>
+                     <cell>
+                        <hi>
+                           <hi>N</hi> E</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nahant riſeth</cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>S <hi>S</hi> Eaſt</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e Delphin at the Meridian</cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e red ſtar in the W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hales tayl riſ.</cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>
+                           <hi>S</hi> E to E</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e Swans tayl comes to the ſouth</cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>28</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ehatan or th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Bulſeye riſeth</cell>
+                     <cell>
+                        <hi>20</hi>
+                     </cell>
+                     <cell>
+                        <hi>52</hi>
+                     </cell>
+                     <cell>
+                        <hi>E N E</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſtor riſeth</cell>
+                     <cell>
+                        <hi>21</hi>
+                     </cell>
+                     <cell>
+                        <hi>28</hi>
+                     </cell>
+                     <cell>
+                        <hi>N E to the N</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e <hi>2</hi> ſtars in the tail of ♑</cell>
+                     <cell>
+                        <hi>21</hi>
+                     </cell>
+                     <cell>
+                        <hi>28</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rturus ſets</cell>
+                     <cell>
+                        <hi>22</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>N W to W</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e Serpents neck ſets</cell>
+                     <cell>
+                        <hi>22</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>W to the N</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>llux riſeth</cell>
+                     <cell>
+                        <hi>22</hi>
+                     </cell>
+                     <cell>
+                        <hi>28</hi>
+                     </cell>
+                     <cell>
+                        <hi>N E to N</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nahant ſouth</cell>
+                     <cell>
+                        <hi>22</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>N E to N</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>th Sheat and Marcab ſouth</cell>
+                     <cell>
+                        <hi>22</hi>
+                     </cell>
+                     <cell>
+                        <hi>44</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e ſhould. of Orion riſeth</cell>
+                     <cell>
+                        <hi>22</hi>
+                     </cell>
+                     <cell>
+                        <hi>36</hi>
+                     </cell>
+                     <cell>
+                        <hi>Eaſt</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ght ſhould. of Orion</cell>
+                     <cell>
+                        <hi>23</hi>
+                     </cell>
+                     <cell>
+                        <hi>0</hi>
+                     </cell>
+                     <cell>
+                        <hi>E to the N</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e middle ſtar in Orions girdle</cell>
+                     <cell>
+                        <hi>23</hi>
+                     </cell>
+                     <cell>
+                        <hi>32</hi>
+                     </cell>
+                     <cell>
+                        <hi>Eaſt</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e head of Andromeda</cell>
+                     <cell>
+                        <hi>23</hi>
+                     </cell>
+                     <cell>
+                        <hi>40</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e ſhining foot of Orion</cell>
+                     <cell>
+                        <hi>23</hi>
+                     </cell>
+                     <cell>
+                        <hi>52</hi>
+                     </cell>
+                     <cell>
+                        <hi>E to the <hi>S</hi>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e faſt ſtar in the wing of Pegaſus</cell>
+                     <cell>
+                        <hi>23</hi>
+                     </cell>
+                     <cell>
+                        <hi>56</hi>
+                     </cell>
+                     <cell>
+                        <hi>South</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <pb facs="tcp:94961:8"/>
+               <table>
+                  <head>A Table of the Suns Right Aſcenſion.</head>
+                  <row>
+                     <cell role="label" rows="2">Dayes</cell>
+                     <cell role="label" cols="2">
+                        <hi>January.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>February.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>March.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>April.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>May.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>June.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>July.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>Auguſt.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>Septem.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>October.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>November.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>Decemb.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>ho.</cell>
+                     <cell>min.</cell>
+                     <cell>ho.</cell>
+                     <cell>min.</cell>
+                     <cell>ho.</cell>
+                     <cell>min.</cell>
+                     <cell>ho.</cell>
+                     <cell>min.</cell>
+                     <cell>ho.</cell>
+                     <cell>min.</cell>
+                     <cell>ho.</cell>
+                     <cell>min.</cell>
+                     <cell>ho.</cell>
+                     <cell>min.</cell>
+                     <cell>ho.</cell>
+                     <cell>min.</cell>
+                     <cell>ho.</cell>
+                     <cell>min.</cell>
+                     <cell>ho.</cell>
+                     <cell>min.</cell>
+                     <cell>ho.</cell>
+                     <cell>min.</cell>
+                     <cell>ho.</cell>
+                     <cell>min.</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>19</cell>
+                     <cell>33</cell>
+                     <cell>21</cell>
+                     <cell>41</cell>
+                     <cell>23</cell>
+                     <cell>28</cell>
+                     <cell>1</cell>
+                     <cell>20</cell>
+                     <cell>3</cell>
+                     <cell>13</cell>
+                     <cell>5</cell>
+                     <cell>22</cell>
+                     <cell>9</cell>
+                     <cell>24</cell>
+                     <cell>11</cell>
+                     <cell>18</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                     <cell>15</cell>
+                     <cell>7</cell>
+                     <cell>17</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>19</cell>
+                     <cell>37</cell>
+                     <cell>21</cell>
+                     <cell>45</cell>
+                     <cell>23</cell>
+                     <cell>32</cell>
+                     <cell>1</cell>
+                     <cell>24</cell>
+                     <cell>3</cell>
+                     <cell>17</cell>
+                     <cell>5</cell>
+                     <cell>27</cell>
+                     <cell>9</cell>
+                     <cell>28</cell>
+                     <cell>11</cell>
+                     <cell>22</cell>
+                     <cell>13</cell>
+                     <cell>10</cell>
+                     <cell>15</cell>
+                     <cell>11</cell>
+                     <cell>17</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>19</cell>
+                     <cell>41</cell>
+                     <cell>21</cell>
+                     <cell>49</cell>
+                     <cell>23</cell>
+                     <cell>35</cell>
+                     <cell>1</cell>
+                     <cell>28</cell>
+                     <cell>3</cell>
+                     <cell>21</cell>
+                     <cell>5</cell>
+                     <cell>31</cell>
+                     <cell>9</cell>
+                     <cell>32</cell>
+                     <cell>11</cell>
+                     <cell>25</cell>
+                     <cell>13</cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                     <cell>15</cell>
+                     <cell>17</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>19</cell>
+                     <cell>46</cell>
+                     <cell>21</cell>
+                     <cell>53</cell>
+                     <cell>23</cell>
+                     <cell>39</cell>
+                     <cell>1</cell>
+                     <cell>32</cell>
+                     <cell>3</cell>
+                     <cell>25</cell>
+                     <cell>5</cell>
+                     <cell>34</cell>
+                     <cell>9</cell>
+                     <cell>36</cell>
+                     <cell>11</cell>
+                     <cell>29</cell>
+                     <cell>13</cell>
+                     <cell>18</cell>
+                     <cell>15</cell>
+                     <cell>19</cell>
+                     <cell>17</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>19</cell>
+                     <cell>51</cell>
+                     <cell>21</cell>
+                     <cell>57</cell>
+                     <cell>23</cell>
+                     <cell>43</cell>
+                     <cell>1</cell>
+                     <cell>35</cell>
+                     <cell>3</cell>
+                     <cell>29</cell>
+                     <cell>5</cell>
+                     <cell>39</cell>
+                     <cell>9</cell>
+                     <cell>40</cell>
+                     <cell>11</cell>
+                     <cell>33</cell>
+                     <cell>13</cell>
+                     <cell>21</cell>
+                     <cell>15</cell>
+                     <cell>23</cell>
+                     <cell>17</cell>
+                     <cell>33</cell>
+                     <cell>6</cell>
+                     <cell>19</cell>
+                     <cell>55</cell>
+                     <cell>22</cell>
+                     <cell>1</cell>
+                     <cell>23</cell>
+                     <cell>46</cell>
+                     <cell>1</cell>
+                     <cell>38</cell>
+                     <cell>3</cell>
+                     <cell>33</cell>
+                     <cell>5</cell>
+                     <cell>43</cell>
+                     <cell>9</cell>
+                     <cell>43</cell>
+                     <cell>11</cell>
+                     <cell>36</cell>
+                     <cell>13</cell>
+                     <cell>25</cell>
+                     <cell>15</cell>
+                     <cell>27</cell>
+                     <cell>17</cell>
+                     <cell>37</cell>
+                     <cell>7</cell>
+                     <cell>19</cell>
+                     <cell>59</cell>
+                     <cell>22</cell>
+                     <cell>5</cell>
+                     <cell>23</cell>
+                     <cell>50</cell>
+                     <cell>1</cell>
+                     <cell>42</cell>
+                     <cell>3</cell>
+                     <cell>37</cell>
+                     <cell>5</cell>
+                     <cell>47</cell>
+                     <cell>9</cell>
+                     <cell>46</cell>
+                     <cell>11</cell>
+                     <cell>40</cell>
+                     <cell>13</cell>
+                     <cell>29</cell>
+                     <cell>15</cell>
+                     <cell>31</cell>
+                     <cell>17</cell>
+                     <cell>41</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>20</cell>
+                     <cell>3</cell>
+                     <cell>22</cell>
+                     <cell>9</cell>
+                     <cell>23</cell>
+                     <cell>53</cell>
+                     <cell>1</cell>
+                     <cell>46</cell>
+                     <cell>3</cell>
+                     <cell>41</cell>
+                     <cell>5</cell>
+                     <cell>51</cell>
+                     <cell>9</cell>
+                     <cell>50</cell>
+                     <cell>11</cell>
+                     <cell>44</cell>
+                     <cell>13</cell>
+                     <cell>33</cell>
+                     <cell>15</cell>
+                     <cell>36</cell>
+                     <cell>17</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>20</cell>
+                     <cell>8</cell>
+                     <cell>22</cell>
+                     <cell>13</cell>
+                     <cell>23</cell>
+                     <cell>56</cell>
+                     <cell>1</cell>
+                     <cell>50</cell>
+                     <cell>3</cell>
+                     <cell>45</cell>
+                     <cell>5</cell>
+                     <cell>55</cell>
+                     <cell>9</cell>
+                     <cell>54</cell>
+                     <cell>11</cell>
+                     <cell>47</cell>
+                     <cell>13</cell>
+                     <cell>36</cell>
+                     <cell>15</cell>
+                     <cell>40</cell>
+                     <cell>17</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>20</cell>
+                     <cell>12</cell>
+                     <cell>22</cell>
+                     <cell>17</cell>
+                     <cell>24</cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>54</cell>
+                     <cell>3</cell>
+                     <cell>49</cell>
+                     <cell>5</cell>
+                     <cell>58</cell>
+                     <cell>9</cell>
+                     <cell>58</cell>
+                     <cell>11</cell>
+                     <cell>50</cell>
+                     <cell>13</cell>
+                     <cell>40</cell>
+                     <cell>15</cell>
+                     <cell>44</cell>
+                     <cell>17</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>11</cell>
+                     <cell>20</cell>
+                     <cell>16</cell>
+                     <cell>22</cell>
+                     <cell>21</cell>
+                     <cell>0</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>57</cell>
+                     <cell>3</cell>
+                     <cell>53</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>2</cell>
+                     <cell>11</cell>
+                     <cell>54</cell>
+                     <cell>13</cell>
+                     <cell>44</cell>
+                     <cell>15</cell>
+                     <cell>48</cell>
+                     <cell>17</cell>
+                     <cell>59</cell>
+                  </row>
+                  <row>
+                     <cell>12</cell>
+                     <cell>20</cell>
+                     <cell>20</cell>
+                     <cell>22</cell>
+                     <cell>25</cell>
+                     <cell>0</cell>
+                     <cell>7</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>56</cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                     <cell>11</cell>
+                     <cell>58</cell>
+                     <cell>13</cell>
+                     <cell>48</cell>
+                     <cell>15</cell>
+                     <cell>52</cell>
+                     <cell>18</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>13</cell>
+                     <cell>20</cell>
+                     <cell>24</cell>
+                     <cell>22</cell>
+                     <cell>29</cell>
+                     <cell>0</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>11</cell>
+                     <cell>10</cell>
+                     <cell>9</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell>13</cell>
+                     <cell>52</cell>
+                     <cell>15</cell>
+                     <cell>56</cell>
+                     <cell>18</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>14</cell>
+                     <cell>20</cell>
+                     <cell>28</cell>
+                     <cell>22</cell>
+                     <cell>32</cell>
+                     <cell>0</cell>
+                     <cell>15</cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>14</cell>
+                     <cell>10</cell>
+                     <cell>12</cell>
+                     <cell>12</cell>
+                     <cell>6</cell>
+                     <cell>13</cell>
+                     <cell>55</cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>18</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>15</cell>
+                     <cell>20</cell>
+                     <cell>32</cell>
+                     <cell>22</cell>
+                     <cell>36</cell>
+                     <cell>0</cell>
+                     <cell>18</cell>
+                     <cell>2</cell>
+                     <cell>12</cell>
+                     <cell>4</cell>
+                     <cell>9</cell>
+                     <cell>6</cell>
+                     <cell>18</cell>
+                     <cell>10</cell>
+                     <cell>6</cell>
+                     <cell>12</cell>
+                     <cell>9</cell>
+                     <cell>13</cell>
+                     <cell>59</cell>
+                     <cell>16</cell>
+                     <cell>5</cell>
+                     <cell>18</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>20</cell>
+                     <cell>36</cell>
+                     <cell>22</cell>
+                     <cell>40</cell>
+                     <cell>0</cell>
+                     <cell>22</cell>
+                     <cell>2</cell>
+                     <cell>16</cell>
+                     <cell>4</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>20</cell>
+                     <cell>12</cell>
+                     <cell>12</cell>
+                     <cell>14</cell>
+                     <cell>3</cell>
+                     <cell>16</cell>
+                     <cell>9</cell>
+                     <cell>18</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>17</cell>
+                     <cell>20</cell>
+                     <cell>41</cell>
+                     <cell>22</cell>
+                     <cell>43</cell>
+                     <cell>0</cell>
+                     <cell>26</cell>
+                     <cell>2</cell>
+                     <cell>20</cell>
+                     <cell>4</cell>
+                     <cell>17</cell>
+                     <cell>6</cell>
+                     <cell>26</cell>
+                     <cell>10</cell>
+                     <cell>24</cell>
+                     <cell>12</cell>
+                     <cell>16</cell>
+                     <cell>14</cell>
+                     <cell>7</cell>
+                     <cell>16</cell>
+                     <cell>14</cell>
+                     <cell>18</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>18</cell>
+                     <cell>20</cell>
+                     <cell>45</cell>
+                     <cell>22</cell>
+                     <cell>47</cell>
+                     <cell>0</cell>
+                     <cell>29</cell>
+                     <cell>2</cell>
+                     <cell>23</cell>
+                     <cell>4</cell>
+                     <cell>21</cell>
+                     <cell>6</cell>
+                     <cell>30</cell>
+                     <cell>10</cell>
+                     <cell>27</cell>
+                     <cell>12</cell>
+                     <cell>19</cell>
+                     <cell>14</cell>
+                     <cell>11</cell>
+                     <cell>16</cell>
+                     <cell>18</cell>
+                     <cell>18</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>19</cell>
+                     <cell>20</cell>
+                     <cell>50</cell>
+                     <cell>22</cell>
+                     <cell>51</cell>
+                     <cell>0</cell>
+                     <cell>33</cell>
+                     <cell>2</cell>
+                     <cell>27</cell>
+                     <cell>4</cell>
+                     <cell>25</cell>
+                     <cell>6</cell>
+                     <cell>35</cell>
+                     <cell>10</cell>
+                     <cell>31</cell>
+                     <cell>12</cell>
+                     <cell>23</cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                     <cell>16</cell>
+                     <cell>23</cell>
+                     <cell>18</cell>
+                     <cell>35</cell>
+                  </row>
+                  <row>
+                     <cell>20</cell>
+                     <cell>20</cell>
+                     <cell>54</cell>
+                     <cell>22</cell>
+                     <cell>55</cell>
+                     <cell>0</cell>
+                     <cell>37</cell>
+                     <cell>2</cell>
+                     <cell>31</cell>
+                     <cell>4</cell>
+                     <cell>28</cell>
+                     <cell>6</cell>
+                     <cell>38</cell>
+                     <cell>10</cell>
+                     <cell>35</cell>
+                     <cell>12</cell>
+                     <cell>27</cell>
+                     <cell>14</cell>
+                     <cell>19</cell>
+                     <cell>16</cell>
+                     <cell>27</cell>
+                     <cell>18</cell>
+                     <cell>39</cell>
+                  </row>
+                  <row>
+                     <cell>21</cell>
+                     <cell>20</cell>
+                     <cell>58</cell>
+                     <cell>22</cell>
+                     <cell>58</cell>
+                     <cell>0</cell>
+                     <cell>40</cell>
+                     <cell>2</cell>
+                     <cell>35</cell>
+                     <cell>4</cell>
+                     <cell>33</cell>
+                     <cell>6</cell>
+                     <cell>42</cell>
+                     <cell>0</cell>
+                     <cell>8</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>14</cell>
+                     <cell>22</cell>
+                     <cell>16</cell>
+                     <cell>31</cell>
+                     <cell>18</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>22</cell>
+                     <cell>21</cell>
+                     <cell>2</cell>
+                     <cell>23</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                     <cell>44</cell>
+                     <cell>2</cell>
+                     <cell>38</cell>
+                     <cell>4</cell>
+                     <cell>38</cell>
+                     <cell>6</cell>
+                     <cell>46</cell>
+                     <cell>10</cell>
+                     <cell>41</cell>
+                     <cell>12</cell>
+                     <cell>34</cell>
+                     <cell>14</cell>
+                     <cell>26</cell>
+                     <cell>16</cell>
+                     <cell>35</cell>
+                     <cell>18</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>23</cell>
+                     <cell>21</cell>
+                     <cell>6</cell>
+                     <cell>23</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                     <cell>48</cell>
+                     <cell>2</cell>
+                     <cell>42</cell>
+                     <cell>4</cell>
+                     <cell>41</cell>
+                     <cell>6</cell>
+                     <cell>50</cell>
+                     <cell>10</cell>
+                     <cell>45</cell>
+                     <cell>12</cell>
+                     <cell>38</cell>
+                     <cell>14</cell>
+                     <cell>30</cell>
+                     <cell>16</cell>
+                     <cell>40</cell>
+                     <cell>18</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>24</cell>
+                     <cell>21</cell>
+                     <cell>10</cell>
+                     <cell>23</cell>
+                     <cell>9</cell>
+                     <cell>0</cell>
+                     <cell>51</cell>
+                     <cell>2</cell>
+                     <cell>46</cell>
+                     <cell>4</cell>
+                     <cell>45</cell>
+                     <cell>6</cell>
+                     <cell>54</cell>
+                     <cell>10</cell>
+                     <cell>49</cell>
+                     <cell>12</cell>
+                     <cell>41</cell>
+                     <cell>14</cell>
+                     <cell>34</cell>
+                     <cell>16</cell>
+                     <cell>44</cell>
+                     <cell>18</cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell>25</cell>
+                     <cell>21</cell>
+                     <cell>14</cell>
+                     <cell>23</cell>
+                     <cell>13</cell>
+                     <cell>0</cell>
+                     <cell>55</cell>
+                     <cell>2</cell>
+                     <cell>50</cell>
+                     <cell>4</cell>
+                     <cell>50</cell>
+                     <cell>6</cell>
+                     <cell>58</cell>
+                     <cell>10</cell>
+                     <cell>53</cell>
+                     <cell>12</cell>
+                     <cell>45</cell>
+                     <cell>14</cell>
+                     <cell>38</cell>
+                     <cell>16</cell>
+                     <cell>48</cell>
+                     <cell>19</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>26</cell>
+                     <cell>21</cell>
+                     <cell>18</cell>
+                     <cell>23</cell>
+                     <cell>17</cell>
+                     <cell>0</cell>
+                     <cell>58</cell>
+                     <cell>2</cell>
+                     <cell>54</cell>
+                     <cell>4</cell>
+                     <cell>54</cell>
+                     <cell>7</cell>
+                     <cell>1</cell>
+                     <cell>11</cell>
+                     <cell>56</cell>
+                     <cell>12</cell>
+                     <cell>49</cell>
+                     <cell>14</cell>
+                     <cell>42</cell>
+                     <cell>16</cell>
+                     <cell>53</cell>
+                     <cell>19</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>27</cell>
+                     <cell>21</cell>
+                     <cell>22</cell>
+                     <cell>23</cell>
+                     <cell>21</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>58</cell>
+                     <cell>4</cell>
+                     <cell>58</cell>
+                     <cell>7</cell>
+                     <cell>5</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>51</cell>
+                     <cell>14</cell>
+                     <cell>46</cell>
+                     <cell>16</cell>
+                     <cell>57</cell>
+                     <cell>19</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>21</cell>
+                     <cell>26</cell>
+                     <cell>23</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>5</cell>
+                     <cell>1</cell>
+                     <cell>7</cell>
+                     <cell>9</cell>
+                     <cell>11</cell>
+                     <cell>7</cell>
+                     <cell>12</cell>
+                     <cell>55</cell>
+                     <cell>14</cell>
+                     <cell>50</cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                     <cell>19</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>29</cell>
+                     <cell>21</cell>
+                     <cell>30</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>9</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell>7</cell>
+                     <cell>13</cell>
+                     <cell>11</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>59</cell>
+                     <cell>14</cell>
+                     <cell>55</cell>
+                     <cell>17</cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>30</cell>
+                     <cell>21</cell>
+                     <cell>34</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>13</cell>
+                     <cell>3</cell>
+                     <cell>9</cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>7</cell>
+                     <cell>17</cell>
+                     <cell>11</cell>
+                     <cell>14</cell>
+                     <cell>12</cell>
+                     <cell>3</cell>
+                     <cell>15</cell>
+                     <cell>59</cell>
+                     <cell>17</cell>
+                     <cell>11</cell>
+                     <cell>9</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>31</cell>
+                     <cell>21</cell>
+                     <cell>38</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1</cell>
+                     <cell>17</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                     <cell>18</cell>
+                     <cell>11</cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>19</cell>
+                     <cell>28</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="explanation">
+               <pb facs="tcp:94961:9"/>
+               <head>The Uſe of the 2 former Tables.</head>
+               <p>BY the help of theſe 2 Tables you may know at what houre a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all thoſe ſtars both riſe, ſet, and come to the Meridian. Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Suns right Aſcenſion, and ſubtract it out of the ſtars Aſcenſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you ſhall find in the ſecond Columne in the firſt Table, and you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their riſing, ſetting, and ſouthing as it is there ſet down: but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cannot make ſubtraction, then adde 24 to the ſtars Aſcention; re<g ref="char:EOLhyphen"/>mainer ſhall be the true riſing, ſetting or ſouthing of the af<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſtars. Note that if after the ſubtraction be made there remain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> then 12 houres, ſubtract 12 out of it, and the remainer is the N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="example">
+               <head>Example.</head>
+               <p>Vpon the 14 of April, I deſire to know when all thoſe ſtars th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſouth. Firſt I find the Suns right Aſcention to be 2 hou. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> min. and then I come to the Table of the ſtars, and right again<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>cida Corona,</hi> the firſt ſtar in the Catologue or Table I find 8. m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which I adde 24 houres, and it is 24. ho. 8. m. out of which I ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 2. hour and 9. min. and there remains 21 houres, and 59. min. b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> this is more then 12. I alſo caſt away 12. then there remains 9<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and 59. min before noon, at which time <hi>Lucida Corona</hi> ſets: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> need not caſt away 12. then it is before midnight, otherwayes midnight. And thus you muſt do for all thoſe ſtars whoſe Aſcen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> leſſe then the Suns. But if when the ſtars right Aſcenſion is moſt onely ſubtract the Suns Aſcenſion out of it, and you have your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I find <hi>Arcturus</hi> rifing upon the 20 of January in the evening, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fire to know to heare of the night, the ſame day the Suns righ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tenſion is 20, hou. 54. m. I find againſt Arcturus ſetting 6 hou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 0. m. to which I adde 24. houres, and the ſumme is 30. hou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which I ſubtract 20, hou. 54. m. there remains 9. ho. and 6. mi. th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> houre of the night. Thus by knowing the houre of the night, yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> know the ſtars by obſerving on what point of the Compaſſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſet on.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
